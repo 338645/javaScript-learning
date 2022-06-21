@@ -12,7 +12,25 @@
 
 ![视频播放和字幕插入](视频播放和字幕插入.png)
 
+[html5前端约束验证](https://www.runoob.com/html/html5-form-attributes.html)
+
+[javaScript前端检验](https://www.runoob.com/js/js-validation-api.html)
+
 [web workers教程](https://www.runoob.com/html/html5-webworkers.html)
+
+[html5应用缓存](https://www.runoob.com/html/html5-app-cache.html)
+
+[html事件大全](https://www.runoob.com/jsref/dom-obj-event.html)
+
+[jQuery教程](https://www.runoob.com/jquery/jquery-selectors.html)
+
+[jQuery的Ajax教程](https://www.runoob.com/jquery/jquery-ajax-intro.html)
+
+[jQuery选择器](https://www.runoob.com/jquery/jquery-selectors.html)
+
+[jQuery-validator](https://www.runoob.com/jquery/jquery-plugin-validate.html)
+
+
 
 # 延伸阅读
 
